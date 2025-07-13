@@ -29,10 +29,10 @@ jobs:
     - name: Generate Gradle Wrapper
       run: |
         cd libmediainfo_0.7.83
-        gradle wrapper
+        gradle init --type=java-library
         
     - name: set up JDK 11
-      uses: actions/setup-java@v3
+      uses: actions/setup-java@v4
       with:
         java-version: '11'
         distribution: 'adopt'
