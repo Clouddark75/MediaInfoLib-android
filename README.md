@@ -1,5 +1,5 @@
 # MediaInfoLib-android
-MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
+MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files_.
 
 <a href='https://play.google.com/store/apps/details?id=org.mediainfo.android.app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'  height='45' ></a>
 
